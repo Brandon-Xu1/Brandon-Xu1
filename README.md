@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🌱 I’m currently learning ...
 
 <!--
 **Brandon-Xu1/Brandon-Xu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
